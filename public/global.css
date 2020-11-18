@@ -1,0 +1,22 @@
+body {
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+}
+main {
+  display: grid;
+  place-items: center;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+#numpad {
+  display: flex;
+}
+
+.symbolbtn {
+}
