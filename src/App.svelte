@@ -106,3 +106,8 @@
     </div>
   </div>
 </main>
+<p style="position:absolute;bottom:0;text-align:center;width:100%">
+  made by Mark Witt, Code:
+  <a
+    href="https://github.com/teknoalex/logic-calculator/">github.com/teknoalex/logic-calculator/</a>
+</p>
